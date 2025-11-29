@@ -1,0 +1,58 @@
+{
+  "karjoy05@gmail.com": {
+    "name": "TrustedJoy",
+    "age": 3,
+    "address": "L&T South City",
+    "uuid": "117919411711441651905",
+    "transport_modes": [
+      "car"
+    ],
+    "lat": 28.4557,
+    "lng": 77.0631
+  },
+  "shouryadeepkar@gmail.com": {
+    "name": "Shouryadeep Kar",
+    "age": 3,
+    "address": "a",
+    "uuid": "104928348944493089270",
+    "transport_modes": [
+      "car"
+    ]
+  },
+  "thekususgang@gmail.com": {
+    "name": "TheKusus",
+    "age": 25,
+    "address": "L&T South City Apartments Arekere Mico Layout Bangalore",
+    "uuid": "104321136144798251532",
+    "lat": 12.8887,
+    "lng": 77.5904,
+    "transport_modes": [
+      "\ud83d\udeb2 Bike"
+    ]
+  },
+  "tandonshreyansh07@gmail.com": {
+    "name": "Shreyansh Tandon",
+    "password_hash": "6b9c8234a89bd34abc3ad7f6da3e1dbdd5af743dd7bf9e71d19e7d96b7dc3650",
+    "age": 25,
+    "address": "PES University banglore",
+    "lat": 12.9327,
+    "lng": 77.5406,
+    "transport_modes": [
+      "\ud83d\ude97 Car"
+    ],
+    "created_at": "2025-11-29T14:23:26.995964"
+  },
+  "amadhya.khanna@gmail.com": {
+    "name": "Amadhya Khanna",
+    "email": "amadhya.khanna@gmail.com",
+    "oauth_provider": "google",
+    "age": 18,
+    "address": "MG road,bangalore",
+    "lat": 12.9727,
+    "lng": 77.6196,
+    "transport_modes": [
+      "\ud83d\ude97 Car"
+    ],
+    "created_at": "2025-11-30T00:43:40.783398"
+  }
+}
