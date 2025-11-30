@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Centroid
-=======
+
 # 🧭 Social Compass
 
 Find the perfect meeting spot that's fair for everyone.
